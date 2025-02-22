@@ -1,3 +1,3 @@
-![cover](coverV.png)
+![cover](cover.webp)
 
 `demo:` https://teamatica.org/demo
