@@ -1,6 +1,6 @@
 ![cover](cover.webp)
 
-`link:` https://teamatica.org/Teamatica.exe
+`file:` https://teamatica.org/Teamatica.exe
 
 `date:` 2025-03-08
 
