@@ -17,3 +17,5 @@
 `type:` self-hosted (on-premises)
 
 `note:` https://teamatica.org/privacy-en.txt
+
+`blog:` https://medium.com/@teamatica
