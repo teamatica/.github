@@ -18,4 +18,6 @@
 
 `note:` https://teamatica.org/privacy-en.txt
 
+`test:` https://github.com/teamatica/beta
+
 `blog:` https://medium.com/@teamatica
