@@ -14,7 +14,7 @@
 
 `help:` https://teamatica.org/#6
 
-`type:` self-hosted (on-premises)
+`type:` self-hosting (on-premises)
 
 `note:` https://teamatica.org/privacy-en.txt
 
