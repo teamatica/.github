@@ -1,6 +1,10 @@
 <p align="center"><picture><img src="cover.webp" alt="cover"></picture></p>
 
+---
+
 <p align="center"><a href="https://apps.microsoft.com/detail/XP8LVLMTSBD7WF"><img src="MicrosoftStore.webp" alt="MicrosoftStore"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="AppStore.webp" alt="AppStore"></picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="GooglePlay.webp" alt="GooglePlay"></picture></p>
+
+---
 
 `file:` https://teamatica.org/Teamatica.exe
 
