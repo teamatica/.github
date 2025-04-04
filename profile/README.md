@@ -1,4 +1,4 @@
-<h1 align="center">Modern employee directory</h1>
+<h1 align="center">MODERN EMPLOYEE DIRECTORY</h1>
 
 <p align="center"><picture><img src="teamatica.webp" alt="Teamatica"></picture></p>
 
