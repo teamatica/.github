@@ -1,3 +1,5 @@
+<h1 align="center">Modern employee directory</h1>
+
 <p align="center"><picture><img src="cover.webp" alt="cover"></picture></p>
 
 <p align="center"><a href="https://apps.microsoft.com/detail/XP8LVLMTSBD7WF"><img src="MicrosoftStore.webp" alt="MicrosoftStore"></a>ㅤㅤ<picture><img src="AppStore.webp" alt="AppStore"></picture>ㅤㅤ<picture><img src="GooglePlay.webp" alt="GooglePlay"></picture></p>
