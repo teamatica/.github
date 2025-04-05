@@ -6,13 +6,7 @@
 
 ***
 
-`file:` https://teamatica.org/Teamatica.exe
-
-`date:` 2025-03-19
-
-`size:` 1.80 MB
-
-`scan:` https://virustotal.com/gui/file/4063678b979a5423445068312730cbfd549073af093db84486fa9e4fc20806c7
+`file:` https://teamatica.org/#3
 
 `demo:` https://teamatica.org/demo
 
@@ -24,6 +18,6 @@
 
 `note:` https://teamatica.org/privacy-en.txt
 
-`test:` https://github.com/teamatica/beta
+`beta:` https://github.com/teamatica/beta
 
 `blog:` https://medium.com/@teamatica
