@@ -6,18 +6,18 @@
 
 ***
 
-`file:` teamatica.org/#3
+`file:` [teamatica.org/#3](https://teamatica.org/#3)
 
-`demo:` https://teamatica.org/demo
+`demo:` [teamatica.org/demo](https://teamatica.org/demo)
 
-`info:` https://teamatica.org/info.webp
+`info:` [teamatica.org/info.webp](https://teamatica.org/info.webp)
 
-`help:` https://teamatica.org/#6
+`help:` [teamatica.org/#6](https://teamatica.org/#6)
 
 `type:` self-hosting (on-premises)
 
-`note:` https://teamatica.org/privacy-en.txt
+`note:` [teamatica.org/privacy-en.txt](https://teamatica.org/privacy-en.txt)
 
-`beta:` https://github.com/teamatica/beta
+`beta:` [github.com/teamatica/beta](https://github.com/teamatica/beta)
 
-`blog:` https://medium.com/@teamatica
+`blog:` [medium.com/@teamatica](https://medium.com/@teamatica)
