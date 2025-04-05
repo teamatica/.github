@@ -6,7 +6,7 @@
 
 ***
 
-`file:` https://teamatica.org/#3
+`file:` teamatica.org/#3
 
 `demo:` https://teamatica.org/demo
 
