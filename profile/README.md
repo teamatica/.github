@@ -8,16 +8,18 @@
 
 `file:` [teamatica.org/#3](https://teamatica.org/#3)
 
+`note:` [teamatica.org/privacy-en.txt](https://teamatica.org/privacy-en.txt)
+
 `demo:` [teamatica.org/demo](https://teamatica.org/demo)
 
 `info:` [teamatica.org/info.webp](https://teamatica.org/info.webp)
 
 `help:` [teamatica.org/#6](https://teamatica.org/#6)
 
-`type:` self-hosting (on-premises)
-
-`note:` [teamatica.org/privacy-en.txt](https://teamatica.org/privacy-en.txt)
+`type:` [self-hosting (on-premises)](https://en.wikipedia.org/wiki/Self-hosting_(web_services))
 
 `beta:` [github.com/teamatica/beta](https://github.com/teamatica/beta)
 
 `blog:` [medium.com/@teamatica](https://medium.com/@teamatica)
+
+`test:` [app.any.run/tasks/74118c4a-9139-43ab-a406-34fbfe80f8b1](https://app.any.run/tasks/74118c4a-9139-43ab-a406-34fbfe80f8b1)
