@@ -16,7 +16,7 @@
 
 `help:` [https://youtu.be/watch?v=jWLrcu5TxJA&list=PLK3N2p5_JsVG5UTw9mtEpv5S_7wcevSyN](https://youtu.be/watch?v=jWLrcu5TxJA&list=PLK3N2p5_JsVG5UTw9mtEpv5S_7wcevSyN)
 
-`type:` [self-hosting (on-premises)](https://en.wikipedia.org/wiki/Self-hosting_(web_services))
+`type:` [https://en.wikipedia.org/wiki/Self-hosting_(web_services)](https://en.wikipedia.org/wiki/Self-hosting_(web_services))
 
 `beta:` [github.com/teamatica/beta](https://github.com/teamatica/beta)
 
