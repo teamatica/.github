@@ -14,7 +14,7 @@
 
 `info:` [teamatica.org/info.webp](https://teamatica.org/info.webp)
 
-`help:` [teamatica.org/#6](https://teamatica.org/#6)
+`help:` [https://youtu.be/watch?v=jWLrcu5TxJA&list=PLK3N2p5_JsVG5UTw9mtEpv5S_7wcevSyN](https://youtu.be/watch?v=jWLrcu5TxJA&list=PLK3N2p5_JsVG5UTw9mtEpv5S_7wcevSyN)
 
 `type:` [self-hosting (on-premises)](https://en.wikipedia.org/wiki/Self-hosting_(web_services))
 
