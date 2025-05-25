@@ -8,7 +8,7 @@
 
 `file:` [teamatica.org/#3](https://teamatica.org/#3)
 
-`note:` [teamatica.org/privacy-en.txt](https://teamatica.org/privacy-en.txt)
+`note:` [en](https://teamatica.org/privacy-en.txt), [kk](https://teamatica.org/privacy-kk.txt), [ru](https://teamatica.org/privacy-ru.txt), [uk](https://teamatica.org/privacy-uk.txt)
 
 `demo:` [teamatica.org/demo](https://teamatica.org/demo)
 
