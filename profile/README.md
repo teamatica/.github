@@ -18,8 +18,6 @@
 
 `type:` [https://en.wikipedia.org/wiki/Self-hosting_(web_services)](https://en.wikipedia.org/wiki/Self-hosting_(web_services))
 
-`beta:` [github.com/teamatica/beta](https://github.com/teamatica/beta)
-
 `blog:` [medium.com/@teamatica](https://medium.com/@teamatica)
 
 `test:` [app.any.run/tasks/74118c4a-9139-43ab-a406-34fbfe80f8b1](https://app.any.run/tasks/74118c4a-9139-43ab-a406-34fbfe80f8b1)
