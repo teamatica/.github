@@ -1,6 +1,6 @@
 <h1 align="center">MODERN EMPLOYEE DIRECTORY</h1>
 
-<p align="center"><picture><img src="teamatica.webp" alt="Teamatica"></picture></p>
+<p align="center"><picture><img src="https://raw.githubusercontent.com/teamatica/.github/refs/heads/main/profile/teamatica.webp" alt="Teamatica"></picture></p>
 
 <p align="center"><a href="https://apps.microsoft.com/detail/xp8lvlmtsbd7wf"><img src="https://raw.githubusercontent.com/teamatica/.github/refs/heads/main/profile/ms-en.webp" alt="Microsoft Store"></a><picture><img src="https://raw.githubusercontent.com/teamatica/.github/refs/heads/main/profile/as-en.webp" alt="App Store"></picture><picture><img src="https://raw.githubusercontent.com/teamatica/.github/refs/heads/main/profile/gp-en.webp" alt="Google Play"></picture></p>
 
